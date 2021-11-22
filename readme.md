@@ -9,6 +9,7 @@ By Mingjian Zhu, Kai Han, Changbin Yu, Yunhe Wang
 This is the implementation of DyFPN. Basically, we follow the setting of testing 
 a model in MMDetection. Please refer to [MMDetection](https://github.com/open-mmlab/mmdetection) for installation and dataset preparation.
 
+The training code will be released while the paper is accepted. Please keep focusing on our work. Thanks.
 
 ## Test
 1. Download the pre-trained model in [Onedrive](https://westlakeu-my.sharepoint.com/:u:/g/personal/zhumingjian_westlake_edu_cn/ESmbMPHJ3SxDk6HfkwHDrqwBiVZN-fDPNSnNSj4Tq7VGOA?e=CQ8U97).
